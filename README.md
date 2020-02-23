@@ -173,4 +173,14 @@ search dependency
         npm -l            display full usage info
         npm help <term>   search for help on <term>
         npm help npm      involved overview
+        
+# git
+
+    $git branch <local_branch_name>
+    
+    $git checkout <local_branch_name>
+    
+    $git branch --set-upstream-to=<remote repo>/<remote branch> local_branch
+    
+    Local Branch set up to track remote branch 'emote branch ' from ' remote repo '
 
