@@ -111,6 +111,8 @@ install react native app for Node 10+
 
               $ npm install -g expo-cli
               
+              > + expo-cli@3.13.1
+              
               $ expo init Project_Name
               
               $ cd under working folder
