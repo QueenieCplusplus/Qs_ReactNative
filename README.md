@@ -62,4 +62,7 @@ once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
 
     <img> == <Image>
  
+# Import PKG & Tool
+
+    import { tool_name } from "react-native";
  
