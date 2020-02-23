@@ -107,7 +107,7 @@ check version
               >
               6.13.4
               
-install react native app
+install react native app for Node 10+
 
               $ npm install -g expo-cli
               
