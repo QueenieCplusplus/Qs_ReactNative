@@ -110,6 +110,10 @@ install react native app
               
 alert to upgrade dependencies
 
-              upgrade your dependencies to the actual version of core-js@3.
+              > upgrade your dependencies to the actual version of core-js@3.
+              
+              $ npm install core-js@3 -u
+              
+(to be continued...)
 
  
