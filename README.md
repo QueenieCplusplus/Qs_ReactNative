@@ -178,9 +178,9 @@ search dependency
 # Project Structure
 
 
-Root Folder ---|
-               ---- app.json (as manifest)
-               |
-               ---- App.js (source file)
-               |
-               ---- package.json (modules & dependencies)
+      Root Folder ---|
+                     ---- app.json (as manifest)
+                     |
+                     ---- App.js (source file)
+                     |
+                     ---- package.json (modules & dependencies)
