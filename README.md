@@ -121,6 +121,20 @@ install react native app for Node 10+
               
               $ npm start
               
+              >>>
+              
+              React  You can now view Blank Template in the browser.
+
+                Local:            http://localhost:19006/
+                On Your Network:  http://192.168.100.24:19006/
+
+              Note that the development build is not optimized.
+
+               › To create a production build, run expo build:web
+               › Press Ctrl+C to exit.
+
+               Expo  Press ? to show a list of all available commands.
+   
              
 alert to upgrade dependencies
 
