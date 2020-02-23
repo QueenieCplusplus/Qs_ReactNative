@@ -108,5 +108,8 @@ install react native app
 
               $ npm install create-react-native-app -g
               
-   
+alert to upgrade dependencies
+
+              upgrade your dependencies to the actual version of core-js@3.
+
  
