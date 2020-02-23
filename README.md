@@ -4,11 +4,12 @@ once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
 # Life Cycle
 
  
-       HTML Markup  < - >  ReactDOM.render(call class)  < - >  Class extends React.Component
+       HTML Markup  < - > ReactDOM.render(callback)  < - >  Class extends Component
        
 
 # Bridge Engine in JSX
 
+>>> HTML render React
 
        class Class_Name extends React.Component {
        
@@ -26,3 +27,24 @@ once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
           mountNode
         
        );
+
+>>> using JS-XML -> JSX, to avoid verbos called '.createElement()'
+
+       class MsgOnHTML extends Component {
+       
+         render(){
+         
+           return //html markup 
+           // including the {this.props.thing}
+         
+         }
+       
+       }
+       
+       ReactDOM.render(
+       
+            <MsgOnHTML thing="QsReactNative"/>,
+            mountNode
+       
+       );
+       
