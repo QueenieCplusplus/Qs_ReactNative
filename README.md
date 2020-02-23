@@ -5,8 +5,11 @@ once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
 
 # Life Cycle
 
+
+生命週期於呈現畫面 render 方法聆聽到 mountNode 掛載節點開始。
+                          
  
-       HTML Markup  < - > ReactDOM.render(callback)  < - >  Class extends Component
+       HTML Markup  < - > ReactDOM.render(callback, mountNode)  < - >  Class extends Component
        
 
 # Bridge Engine in JSX
