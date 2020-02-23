@@ -104,6 +104,9 @@ check version
 
               $ npm -v
               
+              >
+              6.13.4
+              
 install react native app
 
               $ npm install create-react-native-app -g
