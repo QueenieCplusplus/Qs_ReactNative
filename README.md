@@ -113,6 +113,10 @@ install react native app for Node 10+
               
               $ expo init Project_Name
               
+              $ cd under working folder
+              
+              $ npm start
+              
              
 alert to upgrade dependencies
 
