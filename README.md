@@ -111,9 +111,9 @@ install react native app for Node 10+
 
               $ npm install -g expo-cli
               
-              >
-              + 
+              $ expo init Project_Name
               
+             
 alert to upgrade dependencies
 
               > upgrade your dependencies to the actual version of core-js@3.
