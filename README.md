@@ -176,3 +176,11 @@ search dependency
         
 
 # Project Structure
+
+
+Root Folder ---|
+               ---- app.json
+               |
+               ---- App.js
+               |
+               ----
