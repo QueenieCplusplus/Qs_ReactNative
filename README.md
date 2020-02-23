@@ -116,4 +116,13 @@ alert to upgrade dependencies
               
 (to be continued...)
 
- 
+search dependency
+
+              $ npm fund
+              
+              >
+                /Users/pintred
+                └─┬ core-js@3.6.4
+                  ├── type: opencollective
+                  └── url: https://opencollective.com/core-js
+
