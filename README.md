@@ -96,6 +96,8 @@ see <https://github.com/facebook/react-native/tree/master/RNTester>
      
      ); 
      
+![react](https://www.appcoda.com.tw/wp-content/uploads/2015/04/react-native-1024x631.png)
+     
 # Env 
 
 download npm <https://nodejs.org/en/>
@@ -206,3 +208,5 @@ search dependency
         justifyContent: 'center',
       },
     });
+    
+ 
