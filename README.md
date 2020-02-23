@@ -103,4 +103,10 @@ download npm <https://nodejs.org/en/>
 check version 
 
               $ npm -v
+              
+install react native app
+
+              $ npm install create-react-native-app -g
+              
+   
  
