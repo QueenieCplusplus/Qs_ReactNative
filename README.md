@@ -69,7 +69,7 @@ once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
 
     import { tool_name } from "react-native";
     
-# CSS style object instead of style sheet
+# inline style object instead of style sheet 
 
 see <https://github.com/facebook/react-native/tree/master/RNTester>
 
