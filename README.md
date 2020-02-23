@@ -100,6 +100,8 @@ see <https://github.com/facebook/react-native/tree/master/RNTester>
 
 download npm <https://nodejs.org/en/>
 
+cli see <https://facebook.github.io/react-native/docs/getting-started>
+
 check version 
 
               $ npm -v
