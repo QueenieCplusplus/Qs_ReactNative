@@ -137,7 +137,9 @@ install react native app for Node 10+
                
                $ ?
                
-                › Press a to run on Android device/emulator, or i to run on iOS simulator, or w to run on web.
+> Expo Press
+               
+                 › Press a to run on Android device/emulator, or i to run on iOS simulator, or w to run on web.
                  › Press c to show info on connecting new devices.
                  › Press d to open DevTools in the default web browser.
                  › Press shift-d to disable automatically opening DevTools at startup.
