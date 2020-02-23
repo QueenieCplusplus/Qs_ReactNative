@@ -9,7 +9,7 @@ once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
 
 # Bridge Engine in JSX
 
->>> HTML render React
+> HTML render React >
 
        class Class_Name extends React.Component {
        
@@ -28,7 +28,7 @@ once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
         
        );
 
->>> using JS-XML -> JSX, to avoid verbos called '.createElement()'
+> using JS-XML -> JSX, to avoid verbos called '.createElement()' >
 
        class MsgOnHTML extends Component {
        
