@@ -75,7 +75,7 @@ see <https://github.com/facebook/react-native/tree/master/RNTester>
 
 > define a style object
 
-    const style = {
+    const styleQ = {
     
       color: 'purple',
       fontSize: '12px'
@@ -86,7 +86,7 @@ see <https://github.com/facebook/react-native/tree/master/RNTester>
 
      const txt = (
      
-        <Text>
+        <Text style={styleQ}>
         
         Hi ! after 2018 winter,
         I am back to React Native,
