@@ -99,4 +99,8 @@ see <https://github.com/facebook/react-native/tree/master/RNTester>
 # Env 
 
 download npm <https://nodejs.org/en/>
+
+check version 
+
+              $ npm -v
  
