@@ -95,4 +95,8 @@ see <https://github.com/facebook/react-native/tree/master/RNTester>
         </Text>
      
      ); 
+     
+# Env 
+
+download npm <https://nodejs.org/en/>
  
