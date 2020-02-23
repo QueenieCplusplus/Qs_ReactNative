@@ -1,6 +1,8 @@
 # Qs_ReactNative
 once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
 
+![react native](https://vincent.fishboneapps.com/images/learning/reactNative/reactnativeday7.png)
+
 # Life Cycle
 
  
