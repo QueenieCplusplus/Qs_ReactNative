@@ -50,3 +50,16 @@ once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
        
        );
        
+# Elements in View compars with Native
+
+<div> == <View>
+ 
+<span> == <Text>
+ 
+<li> == <List>
+ 
+<ul> == child items
+ 
+<img> == <Image>
+ 
+ 
