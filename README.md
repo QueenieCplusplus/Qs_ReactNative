@@ -69,7 +69,30 @@ once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
 
     import { tool_name } from "react-native";
     
-# Style Sheet & CSS
+# CSS style object instead of style sheet
 
 see <https://github.com/facebook/react-native/tree/master/RNTester>
+
+> define a style object
+
+    const style = {
+    
+      color: 'purple',
+      fontSize: '12px'
+    
+    }
+
+> implement above object to UI object
+
+     const txt = (
+     
+        <Text>
+        
+        Hi ! after 2018 winter,
+        I am back to React Native,
+        Wish things make them work~
+        
+        </Text>
+     
+     ); 
  
