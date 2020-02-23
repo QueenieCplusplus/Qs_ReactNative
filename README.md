@@ -179,8 +179,8 @@ search dependency
 
 
 Root Folder ---|
-               ---- app.json
+               ---- app.json (as manifest)
                |
-               ---- App.js
+               ---- App.js (source file)
                |
-               ----
+               ---- package.json (modules & dependencies)
