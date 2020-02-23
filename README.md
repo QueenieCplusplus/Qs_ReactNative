@@ -1,4 +1,11 @@
 # Qs_ReactNative
+
+this is my diary to show my improvement in programming, I bought this book in winter in 2018, and can't figure it out for week or weeks, then after 14 months, I retry it again, and get success result, just in 2 hrs. Smile ~
+
+![book](https://github.com/QueenieCplusplus/Qs_ReactNative)
+
+
+
 once to be a Native Mobile App Lover and Goer, try a cross-platform hereby now
 
 ![react native](https://vincent.fishboneapps.com/images/learning/reactNative/reactnativeday7.png)
