@@ -137,4 +137,11 @@ search dependency
                 └─┬ core-js@3.6.4
                   ├── type: opencollective
                   └── url: https://opencollective.com/core-js
+                  
+# npm help
+
+        npm <command> -h  quick help on <command>
+        npm -l            display full usage info
+        npm help <term>   search for help on <term>
+        npm help npm      involved overview
 
