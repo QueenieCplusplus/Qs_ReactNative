@@ -134,7 +134,18 @@ install react native app for Node 10+
                › Press Ctrl+C to exit.
 
                Expo  Press ? to show a list of all available commands.
-   
+               
+               $ ?
+               
+                › Press a to run on Android device/emulator, or i to run on iOS simulator, or w to run on web.
+                 › Press c to show info on connecting new devices.
+                 › Press d to open DevTools in the default web browser.
+                 › Press shift-d to disable automatically opening DevTools at startup.
+                 › Press e to send an app link with email.
+                 › Press p to toggle production mode. (current mode: development)
+                 › Press r to restart bundler, or shift-r to restart and clear cache.
+                 › Press s to sign in.
+
              
 alert to upgrade dependencies
 
