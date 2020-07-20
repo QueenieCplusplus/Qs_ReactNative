@@ -216,4 +216,22 @@ search dependency
       },
     });
     
- 
+# Webpack
+
+      Sorry for not giving more info up front :slight_smile:
+
+      For step 1 you just need to find a place to put it. e.g. in your home directory. Do it somewhere that does not already have a subdirectory called expo-cli and the git clone will create the expo-cli directory and put the source code within that.
+
+      Step 2, as you say, is straightforward. It takes a few minutes and spits out a bunch of output. During this “bootstrap” process it builds expo-cli based on the currently checked out version of the expo-cli source code.
+
+      Step 3 is only really needed if you want to make changes to the expo-cli source code and submit it back to the Expo developers for inclusion into the next version of expo-cli. Also yarn start is only useful if you’re going to be making changes to the expo-cli source code.
+
+      After the “bootstrap” process you should find an expo command in the node_modules/.bin/ directory. If you just run expo customize:web it will run your globally installed version of the expo command, because that will be in your PATH, while this newly compiled version will not. There are two ways to run the newly compiled version.
+
+      Specify the full path when you run it, like: /Users/michael/expo-cli/node_modules/.bin/expo customize:web
+      Add the node_modules/.bin directory to your PATH before the directory that contains the official version of the expo command. (This can be done permanently or just for the current shell session.)
+      You probably want to run the official version of the expo command for everything except the customize:web option, in case there are any bugs in the version compiled from the Git repository. Also, expo customize:web is not something you’re going to have to run every 10 minutes, so I would just go with the first option.
+
+      I have just tried this and was able to get it to generate a webpack.config.js (but I had to first remove the one I had copied there) and also the other files.
+
+
